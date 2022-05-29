@@ -1,0 +1,113 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 2;
+}
+
+body {
+    background-color: black;
+    color-scheme: blueviolet;
+}
+
+div {
+    text-align: right;
+    padding: auto;
+    color: aquamarine;
+
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: white underline 2px;
+    margin-top: 20px;
+}
+
+p {
+
+    text-align: center;
+    color: blueviolet;
+}
+
+canvas {
+    position: relative;
+    top: 50px;
+    left: 540px;
+    border: 3px inset gray;
+}
+
+#Clear {
+    user-select: none;
+    font-size: 20px;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 900px;
+    margin-top: 55px;
+    box-shadow: 4px 4px blueviolet;
+}
+
+#Clear:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#Clear:active {
+    transform: translateY(2px);
+}
+
+#Circle {
+    user-select: none;
+    font-size: 20px;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 200px;
+    margin-top: 2px;
+    box-shadow: 4px 4px blueviolet;
+}
+
+#Circle:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#Circle:active {
+    transform: translateY(2px);
+}
+
+#Triangle {
+    user-select: none;
+    font-size: 20px;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 200px;
+    margin-top: 2px;
+    box-shadow: 4px 4px blueviolet;
+}
+
+#Triangle:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#Triangle:active {
+    transform: translateY(2px);
+}
+
+#Rectangle {
+    user-select: none;
+    font-size: 20px;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 200px;
+    margin-top: 2px;
+    box-shadow: 4px 4px blueviolet;
+}
+
+#Rectangle:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#Rectangle:active {
+    transform: translateY(2px);
+}

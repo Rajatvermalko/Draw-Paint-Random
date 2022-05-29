@@ -1,2 +1,2 @@
 # Draw-Paint-Random
- To draw triangles, Circles and Rectangles just by dragging mouse
+ To draw TRAIANGLES, CORCLES and RECTANGLES just by dragging mouse of varying size and random color

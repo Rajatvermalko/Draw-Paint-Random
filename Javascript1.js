@@ -1,4 +1,7 @@
 //ADDED COMMENTS FOR EXAMINER'S BETTER UNDERSTANDING
+//==================================================
+//Made by RAJAT VERMA
+//==================================================
 window.onload = function() {
     var canvas = document.getElementById('Canvas');
     var clearButton = document.getElementById('Clear');
